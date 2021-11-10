@@ -5,4 +5,4 @@ let modulo = 5 % 2;
 
 alert(`${result * addition}`);
 alert(`${result % soustraction}`);
-alert(`${modulo}`)
+alert(`${modulo}`);
